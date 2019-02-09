@@ -7,8 +7,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-        <h1>Netlify App Deployed</h1>
+        <h1>Netlify App Fully Deployed</h1>
           <img src={logo} className="App-logo" alt="logo" />
+          <p>Netlify You Rock!</p>
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
